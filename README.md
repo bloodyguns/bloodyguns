@@ -13,8 +13,8 @@
 
 </div>
 
-  <div align="center">
+ <div align="center">
    
-[![ rentry ](rentyt.png)]() [![αтαвσσк](ata.png)](https://bloodyros3s.atabook.org/) [![prns.cc](pr.png)](https://pronouns.cc/@bloodyguns)
+   [![ rentry ](rentyt.png)]() [![αтαвσσк](ata.png)](https://bloodyros3s.atabook.org/) [![prns.cc](pr.png)](https://pronouns.cc/@bloodyguns)
 
 </div>
