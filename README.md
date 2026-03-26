@@ -1,16 +1,20 @@
-## Hi there 👋
+<img src="4.png" alt="l"  width="1000" height="350">
 
-<!--
-**bloodyguns/bloodyguns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 
+ <div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=aylasaurr&color=4F1131&label=ꫂ𖦏)⋮ ⌗┆  
+</div>
+
+<div align="center">
+
+<img src="3.png" alt="leon" width="200">
+
+</div>
+
+  <div align="center">
+   
+[![ rentry ](rentyt.png)]() [![αтαвσσк](ata.png)](https://bloodyros3s.atabook.org/) [![prns.cc](pr.png)](https://pronouns.cc/@bloodyguns)
+
+</div>
