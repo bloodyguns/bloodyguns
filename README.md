@@ -4,7 +4,7 @@
  
  <div align="center">
 
-![](https://komarev.com/ghpvc/?username=aylasaurr&color=4F1131&label=ꫂ𖦏)⋮ ⌗┆  
+![](https://komarev.com/ghpvc/?username=aylasaurr&color=4F1131&label=ꫂ𖦏)
 </div>
 
 <div align="center">
