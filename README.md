@@ -17,6 +17,6 @@
 
  <div align="center">
    
-   [![ rentry ](rentyt.png)]() [![αтαвσσк](ata.png)](https://bloodyguns.atabook.org/) [![prns.cc](pr.png)](https://pronouns.cc/@bloodyguns)
+   [![ rentry ](rent.png)]() [![αтαвσσк](ata.png)](https://bloodyguns.atabook.org/) [![prns.cc](prr.png)](https://pronouns.cc/@bloodyguns)
 
 </div>
