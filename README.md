@@ -1,4 +1,7 @@
+ <div align="center">
 
+![](https://komarev.com/ghpvc/?username=aylasaurr&color=4F1131&label=ᝰ.ᐟ)
+</div>
 
 
  
@@ -9,10 +12,13 @@
 <img src="3.png" alt="leon" width="200">  
 
 </div> 
+ㅤㅤㅤㅤㅤㅤ
+ㅤㅤㅤ
+ㅤㅤㅤ
+<div align="center"
+ 
+· · ─ ·✶· ─ · ·
 
- <div align="center">
-
-![](https://komarev.com/ghpvc/?username=aylasaurr&color=4F1131&label=ꫂ𖦏)
 </div>
 
  <div align="center">
